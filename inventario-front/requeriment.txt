@@ -1,0 +1,13 @@
+Creacion del front 
+- npm create vite@latest (react) (typeScript)
+
+Dentro de la carpeta front
+- npm i 
+- npm run dev
+- npm i react-router-dom
+
+Creacion de backend
+Dentro de la carpeta de inventario backend 
+- npm init -y
+- npm i express cors bcrypt dotenv jsonwebtoken nodemon pg
+- npx nodemon app
